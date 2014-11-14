@@ -1,4 +1,4 @@
 Diameter-measuring
 ==================
 
-Fiels related to manually measuring diameters of pots from sherds.
+Files related to manually measuring diameters of pots from sherds.
