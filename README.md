@@ -3,4 +3,4 @@ Diameter-measuring
 
 Files related to manually measuring diameters of pots from sherds.
 
-NB svg files is from Inkscape and other readers will not show the cm markings. Bug in Inkscape makes converting the text tedious, so waiting for fix. PDFs work great in the meantime. https://bugs.launchpad.net/inkscape/+bug/817048
+SVG now uses standard text instead of flowed text and so should look good in compliant renderers. PDFs made from flowed-text version, so the text might be slightly displaced in the two versions. No practical implication for that though. https://bugs.launchpad.net/inkscape/+bug/817048
